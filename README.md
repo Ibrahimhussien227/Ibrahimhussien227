@@ -17,8 +17,10 @@ Welcome to my GitHub! Here you'll find a collection of projects showcasing my wo
 ## 🌱 What I'm Learning
 
 🔹 Advanced TypeScript  
-🔹 Express, Nest
-🔹 Scalable architecture for full-stack apps
+🔹 Express
+🔹 Nest
+🔹 Scalable architecture Nest
+full-stack apps
 
 ## 📫 Connect With Me
 
